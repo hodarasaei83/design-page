@@ -12,7 +12,7 @@ import {
 import AccountCircleOutlinedIcon from "@mui/icons-material/AccountCircleOutlined";
 import EventNoteOutlinedIcon from "@mui/icons-material/EventNoteOutlined";
 import VrpanoOutlinedIcon from "@mui/icons-material/VrpanoOutlined";
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
